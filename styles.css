@@ -1,0 +1,58 @@
+
+.cardbox {
+	width: 300px;
+	padding: 25px;
+	border: 2px lightgrey solid;
+	box-shadow: 6px 6px 2px #e6e6e6;
+	border-radius: 10px;
+	background-color: #f8f4ed;
+	margin:  5px;
+}
+
+.innerborder{
+	background-color: white;
+	border-radius: 10px;
+	width: 300px;
+	border: 2px solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	border-color: lightgrey;
+}
+
+.interesting-fact{
+	font-style: italic;
+}
+
+.label {
+	font-weight: bold;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 10px;
+
+}
+
+.image {
+	border: 2px solid lightgrey;
+	border-radius: 10px;
+	width: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	font-size: 30px;
+	margin-top: auto;
+	margin-bottom: 20px;
+
+}
+
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
